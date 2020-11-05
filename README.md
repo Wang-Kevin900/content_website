@@ -13,6 +13,8 @@ A website with a database in it.
 This project includes the projecting phase (Constructing ER model and logic model of the database) from a given track to the implementing the features. 
 
 ## Technologies 
+* HTML&CSS
+* Javascript
 
 ## Installation
 1. Initialize Git <br />
